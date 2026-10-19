@@ -1,1 +1,1 @@
-# GOLILAO-GOLILAO-CSCC102-Filehandling
+# GOLILAO-CSCC102-Filehandling
